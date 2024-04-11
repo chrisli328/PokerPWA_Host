@@ -1,9 +1,9 @@
 const cacheName = "ChrisLi-PokerTrainer-1.0";
 const contentToCache = [
     "Build/PokerPWA_Host.loader.js",
-    "Build/PokerPWA_Host.framework.js.br",
-    "Build/PokerPWA_Host.data.br",
-    "Build/PokerPWA_Host.wasm.br",
+    "Build/PokerPWA_Host.framework.js.unityweb",
+    "Build/PokerPWA_Host.data.unityweb",
+    "Build/PokerPWA_Host.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
